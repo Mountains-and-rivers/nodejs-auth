@@ -19,7 +19,7 @@
     "fs-extra": "^3.0.1",
     "jsonfile": "^3.0.0",
     "mkdirp": "^0.5.1",
-    "mongodb": "^2.2.27",
+    "mongodb": "^3.6.1",
     "mongoose": "^4.10.2",
     "morgan": "~1.6.1",
     "multiparty": "^4.1.3",
